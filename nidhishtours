@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nidhish Tours & Travels</title>
+  <title>Naveen Tours & Travels</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -42,7 +42,7 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
   <div class="container">
-    <a class="navbar-brand" href="#">Nidhish Tours</a>
+    <a class="navbar-brand" href="#">Naveen Tours</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -60,7 +60,7 @@
 <!-- Hero Section -->
 <section class="hero">
   <div class="container">
-    <h1>explore the World with Nidhish Tours</h1>
+    <h1>explore the World with Naveen Tours</h1>
     <p class="lead">Affordable, Safe, and Memorable Travel Experiences</p>
     <a href="#contact" class="btn btn-warning btn-lg mt-3">Book Now</a>
   </div>
@@ -134,7 +134,7 @@
     <h2 class="text-center mb-4">Get in Touch</h2>
     <div class="row justify-content-center">
       <div class="col-md-8">
-        <form action="https://formsubmit.co/nidhihari4321@gmail.com" method="POST">
+        <form action="https://formsubmit.co/naveenkumarvaratharajan@gmail.com" method="POST">
           <div class="mb-3">
             <label for="name" class="form-label">Full Name</label>
             <input type="text" name="name" required>
@@ -158,7 +158,7 @@
 <!-- Footer -->
 <footer class="py-4">
   <div class="container text-center">
-    <p class="mb-1">&copy; 2025 Nidhish Tours and Travels. All Rights Reserved.</p>
+    <p class="mb-1">&copy; 2025 Naveen To0urs and Travels. All Rights Reserved.</p>
     <small>Designed with ❤️ by A Square Solution</small>
   </div>
 </footer>
